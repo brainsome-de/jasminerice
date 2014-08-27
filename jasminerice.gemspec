@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email       = [nil, nil]
   s.summary     = "Pain free coffeescript unit testing for Rails 3.1 using jasmine"
   s.description = "Full support for the Rails 3.1 asset pipeline when bdd'ing your coffeescript or javascript using jasmine"
-  s.homepage    = "http://github.com/torial/jasminerice"
+  s.homepage    = "https://github.com/brainsome-de/jasminerice"
   s.license     = "MIT"
 
   s.platform    = Gem::Platform::RUBY
